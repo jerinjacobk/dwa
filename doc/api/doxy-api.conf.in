@@ -36,6 +36,7 @@ INPUT                   = @TOPDIR@/doc/api/doxy-api-index.md \
                           @TOPDIR@/lib/cryptodev \
                           @TOPDIR@/lib/distributor \
                           @TOPDIR@/lib/dmadev \
+                          @TOPDIR@/lib/dwa \
                           @TOPDIR@/lib/efd \
                           @TOPDIR@/lib/ethdev \
                           @TOPDIR@/lib/eventdev \

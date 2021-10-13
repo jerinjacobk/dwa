@@ -61,6 +61,7 @@ libraries = [
         'bpf',
         'graph',
         'node',
+        'dwa',
 ]
 
 if is_windows

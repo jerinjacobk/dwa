@@ -199,6 +199,19 @@ The public API headers are grouped by topics:
     [eth_node]         (@ref rte_node_eth_api.h),
     [ip4_node]         (@ref rte_node_ip4_api.h)
 
+- **dataplane workload accelerator**:
+  * infrastructure:
+    [dwa]              (@ref rte_dwa.h),
+    [core]             (@ref rte_dwa_core.h),
+    [device]           (@ref rte_dwa_dev.h)
+  * dwa ports:
+    [ethernet]         (@ref rte_dwa_port_dwa_ethernet.h)
+  * host ports:
+    [ethernet]         (@ref rte_dwa_port_host_ethernet.h)
+  * profile:
+    [admin]            (@ref rte_dwa_profile_admin.h),
+    [l3fwd]            (@ref rte_dwa_profile_l3fwd.h)
+
 - **basic**:
   [bitops]             (@ref rte_bitops.h),
   [approx fraction]    (@ref rte_approx.h),
